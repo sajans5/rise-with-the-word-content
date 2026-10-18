@@ -1,0 +1,279 @@
+{
+  "items": [
+    {
+      "q": "Which book begins with the creation of the world?",
+      "options": [
+        "Genesis",
+        "Exodus",
+        "Psalms",
+        "Acts"
+      ],
+      "answer": 0,
+      "explain": "Genesis 1 opens the Bible's account of creation."
+    },
+    {
+      "q": "Who built the ark in the story of the flood?",
+      "options": [
+        "Moses",
+        "Noah",
+        "Abraham",
+        "David"
+      ],
+      "answer": 1,
+      "explain": "Genesis 6–9 tells the story of Noah and the ark."
+    },
+    {
+      "q": "Who was called to leave his homeland and trust God's promise?",
+      "options": [
+        "Isaac",
+        "Jacob",
+        "Abraham",
+        "Samuel"
+      ],
+      "answer": 2,
+      "explain": "Genesis 12 describes God's call to Abram."
+    },
+    {
+      "q": "Who led the Israelites out of Egypt?",
+      "options": [
+        "Moses",
+        "Joshua",
+        "Solomon",
+        "Elijah"
+      ],
+      "answer": 0,
+      "explain": "Exodus tells how Moses led Israel from slavery."
+    },
+    {
+      "q": "What did God give Moses at Mount Sinai?",
+      "options": [
+        "The Beatitudes",
+        "The Ten Commandments",
+        "The Lord's Prayer",
+        "The Magnificat"
+      ],
+      "answer": 1,
+      "explain": "Exodus 20 gives the Ten Commandments."
+    },
+    {
+      "q": "Who defeated Goliath?",
+      "options": [
+        "Saul",
+        "Jonathan",
+        "David",
+        "Samson"
+      ],
+      "answer": 2,
+      "explain": "David faces Goliath in 1 Samuel 17."
+    },
+    {
+      "q": "Who was known for asking God for wisdom?",
+      "options": [
+        "Solomon",
+        "Jonah",
+        "Gideon",
+        "Amos"
+      ],
+      "answer": 0,
+      "explain": "In 1 Kings 3, Solomon asks for an understanding heart."
+    },
+    {
+      "q": "Which queen risked approaching the king to help save her people?",
+      "options": [
+        "Ruth",
+        "Esther",
+        "Deborah",
+        "Jezebel"
+      ],
+      "answer": 1,
+      "explain": "The Book of Esther tells her story."
+    },
+    {
+      "q": "Who baptised Jesus in the Jordan?",
+      "options": [
+        "Peter",
+        "John the Baptist",
+        "Andrew",
+        "Philip"
+      ],
+      "answer": 1,
+      "explain": "See Matthew 3:13–17."
+    },
+    {
+      "q": "In which town was Jesus born?",
+      "options": [
+        "Nazareth",
+        "Bethlehem",
+        "Cana",
+        "Jericho"
+      ],
+      "answer": 1,
+      "explain": "Luke 2 places Jesus' birth in Bethlehem."
+    },
+    {
+      "q": "At which wedding did Jesus turn water into wine?",
+      "options": [
+        "Cana",
+        "Bethany",
+        "Emmaus",
+        "Capernaum"
+      ],
+      "answer": 0,
+      "explain": "John 2 tells the sign at Cana."
+    },
+    {
+      "q": "Who climbed a tree to see Jesus?",
+      "options": [
+        "Nicodemus",
+        "Zacchaeus",
+        "Bartimaeus",
+        "Lazarus"
+      ],
+      "answer": 1,
+      "explain": "Luke 19 tells how Zacchaeus climbed a sycamore tree."
+    },
+    {
+      "q": "In Jesus' parable, who helped the wounded traveller?",
+      "options": [
+        "A priest",
+        "A Levite",
+        "A Samaritan",
+        "A soldier"
+      ],
+      "answer": 2,
+      "explain": "The Samaritan stops and provides practical care in Luke 10:25–37."
+    },
+    {
+      "q": "Which disciple tried to walk on the water toward Jesus?",
+      "options": [
+        "John",
+        "Peter",
+        "Thomas",
+        "James"
+      ],
+      "answer": 1,
+      "explain": "Matthew 14:28–31 recounts Peter stepping out of the boat."
+    },
+    {
+      "q": "Who was raised after four days in the tomb?",
+      "options": [
+        "Stephen",
+        "Lazarus",
+        "Jairus",
+        "Bartimaeus"
+      ],
+      "answer": 1,
+      "explain": "John 11 tells of Jesus raising Lazarus."
+    },
+    {
+      "q": "Which Gospel begins with 'In the beginning was the Word'?",
+      "options": [
+        "Matthew",
+        "Mark",
+        "Luke",
+        "John"
+      ],
+      "answer": 3,
+      "explain": "John 1 opens with the Word who was with God and was God."
+    },
+    {
+      "q": "Who betrayed Jesus?",
+      "options": [
+        "Peter",
+        "Judas Iscariot",
+        "Thomas",
+        "Philip"
+      ],
+      "answer": 1,
+      "explain": "The Gospel accounts identify Judas Iscariot."
+    },
+    {
+      "q": "Who denied knowing Jesus three times?",
+      "options": [
+        "Peter",
+        "John",
+        "Andrew",
+        "Matthew"
+      ],
+      "answer": 0,
+      "explain": "Jesus foretold Peter's denial; see Luke 22."
+    },
+    {
+      "q": "Who first recognised the risen Jesus in the garden in John's Gospel?",
+      "options": [
+        "Martha",
+        "Mary Magdalene",
+        "Salome",
+        "Joanna"
+      ],
+      "answer": 1,
+      "explain": "John 20:11–18 tells of Mary Magdalene meeting the risen Jesus."
+    },
+    {
+      "q": "What happened at Pentecost?",
+      "options": [
+        "The disciples received the Holy Spirit",
+        "Jesus was born",
+        "The Red Sea parted",
+        "David became king"
+      ],
+      "answer": 0,
+      "explain": "Acts 2 describes the coming of the Holy Spirit."
+    },
+    {
+      "q": "Who was the first Christian martyr?",
+      "options": [
+        "Stephen",
+        "Barnabas",
+        "Timothy",
+        "Mark"
+      ],
+      "answer": 0,
+      "explain": "Acts 7 recounts Stephen's witness and death."
+    },
+    {
+      "q": "Who encountered Jesus on the road to Damascus?",
+      "options": [
+        "Cornelius",
+        "Saul",
+        "Silas",
+        "Apollos"
+      ],
+      "answer": 1,
+      "explain": "Acts 9 tells of Saul's conversion."
+    },
+    {
+      "q": "Which apostle is traditionally associated with the Gospel that emphasises mercy and the poor?",
+      "options": [
+        "Luke",
+        "Jude",
+        "James",
+        "Bartholomew"
+      ],
+      "answer": 0,
+      "explain": "Luke's Gospel gives sustained attention to mercy and the poor."
+    },
+    {
+      "q": "What is the final book of the Catholic Bible?",
+      "options": [
+        "Jude",
+        "Acts",
+        "Revelation",
+        "Romans"
+      ],
+      "answer": 2,
+      "explain": "Revelation, also called the Apocalypse, closes the New Testament."
+    },
+    {
+      "q": "Which prayer did Jesus teach his disciples?",
+      "options": [
+        "The Hail Mary",
+        "The Lord's Prayer",
+        "The Memorare",
+        "The Angelus"
+      ],
+      "answer": 1,
+      "explain": "Matthew 6:9–13 and Luke 11:2–4 record the Lord's Prayer."
+    }
+  ]
+}

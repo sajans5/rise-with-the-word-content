@@ -1,0 +1,34 @@
+{
+  "packs": {
+    "stories": {
+      "version": 1,
+      "url": "stories.json",
+      "sha256": "d96b5bb7429fc851e0bccf2ce50ee9129268d2e7ffd2a186e045dd8ab897e58a"
+    },
+    "saints": {
+      "version": 1,
+      "url": "saints.json",
+      "sha256": "51f9c29f9d859cb4f031dc186c242cf042f2b71233034074793c77bd5473a787"
+    },
+    "readings": {
+      "version": 1,
+      "url": "readings.json",
+      "sha256": "f1f1c789760be0a39b47ebcf6176719be970c020ecb9a67f99e3d2b228c965e3"
+    },
+    "calendar": {
+      "version": 1,
+      "url": "calendar.json",
+      "sha256": "ffbc48d7edba6962638027b5d3a97a65ccef63c74c42ea92f23332ec6c18203c"
+    },
+    "quiz": {
+      "version": 1,
+      "url": "quiz.json",
+      "sha256": "f573fd7b5612a182be47d30366577ced7bf1135c4d002b03cb47437056e5bd98"
+    },
+    "trivia": {
+      "version": 1,
+      "url": "trivia.json",
+      "sha256": "eb6072bdc55dc230da3f7b2d4994bada7ef90cf63a3c009342829d30f9fee353"
+    }
+  }
+}

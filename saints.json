@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "md": "01-01",
+      "rank": "S",
+      "color": "w",
+      "name": "Mary, Mother of God",
+      "bio": "The Church begins the civil year by honouring Mary under the title Mother of God, proclaiming that the child she bore is truly the divine Son made man. Her faithful response points Christians toward listening to God's word."
+    },
+    {
+      "md": "01-25",
+      "rank": "F",
+      "color": "w",
+      "name": "Conversion of Saint Paul",
+      "bio": "Saul's encounter with the risen Jesus transformed a persecutor into an apostle. The feast celebrates grace that redirects a life and sends a person to proclaim Christ across cultures."
+    },
+    {
+      "md": "02-22",
+      "rank": "F",
+      "color": "w",
+      "name": "Chair of Saint Peter",
+      "bio": "This feast recalls Peter's ministry of strengthening the Church in faith and unity. It invites prayer for the Pope and for leaders who serve through truth, humility and pastoral care."
+    },
+    {
+      "md": "03-19",
+      "rank": "S",
+      "color": "w",
+      "name": "Saint Joseph, Spouse of the Blessed Virgin Mary",
+      "bio": "Joseph protects and provides for Mary and Jesus through quiet, faithful action. Scripture gives few of his words but shows a life shaped by obedience, courage and care."
+    },
+    {
+      "md": "03-25",
+      "rank": "S",
+      "color": "w",
+      "name": "Annunciation of the Lord",
+      "bio": "The angel announces that Mary will conceive Jesus by the Holy Spirit. Her yes becomes a model of trust and openness to God's surprising work."
+    },
+    {
+      "md": "04-25",
+      "rank": "F",
+      "color": "r",
+      "name": "Saint Mark the Evangelist",
+      "bio": "Mark's Gospel moves urgently through the ministry, suffering and Resurrection of Jesus. Christian tradition connects Mark with Peter's preaching and remembers him as a witness to the Good News."
+    },
+    {
+      "md": "05-01",
+      "rank": "F",
+      "color": "w",
+      "name": "Saint Joseph the Worker",
+      "bio": "This memorial honours the dignity of human work and Joseph's faithful labour. It invites Christians to seek just conditions for workers and to offer ordinary tasks with love."
+    },
+    {
+      "md": "06-24",
+      "rank": "S",
+      "color": "w",
+      "name": "Nativity of Saint John the Baptist",
+      "bio": "John prepares the way for Jesus and points away from himself toward the Lamb of God. His birth celebrates a life dedicated to truth and readiness for God's call."
+    },
+    {
+      "md": "06-29",
+      "rank": "S",
+      "color": "r",
+      "name": "Saints Peter and Paul",
+      "bio": "Peter and Paul witness to Christ in different ways: Peter leads and strengthens the early community, while Paul carries the Gospel across the Mediterranean world. Their feast celebrates apostolic faith and unity."
+    },
+    {
+      "md": "07-11",
+      "rank": "M",
+      "color": "w",
+      "name": "Saint Benedict",
+      "bio": "Benedict's monastic tradition joins prayer, work, hospitality and a wise rhythm of community life. His Rule has shaped Christian spirituality for centuries."
+    },
+    {
+      "md": "08-15",
+      "rank": "S",
+      "color": "w",
+      "name": "Assumption of the Blessed Virgin Mary",
+      "bio": "The solemnity celebrates Mary's sharing in the glory of her risen Son. It points to the Christian hope that God intends the whole human person for life with Him."
+    },
+    {
+      "md": "09-08",
+      "rank": "F",
+      "color": "w",
+      "name": "Nativity of the Blessed Virgin Mary",
+      "bio": "The Church celebrates Mary's birth and the place of her faithful life in the history of salvation. The feast invites gratitude for God's quiet preparation and the gift of vocation."
+    },
+    {
+      "md": "09-29",
+      "rank": "F",
+      "color": "w",
+      "name": "Saints Michael, Gabriel and Raphael, Archangels",
+      "bio": "The Church honours the archangels named in Scripture as messengers and servants of God's purpose. Their feast recalls that worship and service belong to the whole heavenly host."
+    },
+    {
+      "md": "10-18",
+      "rank": "F",
+      "color": "r",
+      "name": "Saint Luke the Evangelist",
+      "bio": "Luke's Gospel gives special attention to prayer, mercy, the poor and God's welcome to outsiders. Christian tradition remembers Luke as a physician and companion of Paul."
+    },
+    {
+      "md": "11-01",
+      "rank": "S",
+      "color": "w",
+      "name": "All Saints",
+      "bio": "The solemnity honours all the saints, known and unknown, whose lives show the many ways holiness can grow. It reminds Christians that sanctity is a call for the whole Church."
+    },
+    {
+      "md": "11-02",
+      "rank": "C",
+      "color": "p",
+      "name": "All Souls' Day",
+      "bio": "The Church prays for the faithful departed and entrusts them to God's mercy. The day holds grief and Christian hope together, encouraging remembrance and prayer."
+    },
+    {
+      "md": "11-30",
+      "rank": "F",
+      "color": "r",
+      "name": "Saint Andrew the Apostle",
+      "bio": "Andrew follows Jesus and brings his brother Simon to meet him. His story reminds Christians that a simple invitation can become the beginning of another person's journey of faith."
+    },
+    {
+      "md": "12-03",
+      "rank": "M",
+      "color": "w",
+      "name": "Saint Francis Xavier",
+      "bio": "Francis Xavier served as a missionary in Asia and is remembered for his zeal, adaptability and desire to share the Gospel across cultures."
+    },
+    {
+      "md": "12-08",
+      "rank": "S",
+      "color": "w",
+      "name": "Immaculate Conception of the Blessed Virgin Mary",
+      "bio": "The solemnity celebrates that Mary, by God's grace and in view of Christ's merits, was preserved from original sin from the first moment of her conception."
+    },
+    {
+      "md": "12-26",
+      "rank": "F",
+      "color": "r",
+      "name": "Saint Stephen, First Martyr",
+      "bio": "Stephen witnesses to Christ with courage and forgiveness even as he is killed for his testimony. His feast immediately after Christmas reminds the Church that following Jesus involves faithful witness."
+    }
+  ]
+}
