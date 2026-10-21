@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "q": "Which prophet confronted King David after his wrongdoing?",
+      "options": [
+        "Nathan",
+        "Elisha",
+        "Isaiah",
+        "Amos"
+      ],
+      "answer": 0,
+      "explain": "Nathan confronts David in 2 Samuel 12 and calls him to account."
+    },
+    {
+      "q": "Who interpreted Pharaoh’s dreams in Egypt?",
+      "options": [
+        "Joseph",
+        "Moses",
+        "Aaron",
+        "Joshua"
+      ],
+      "answer": 0,
+      "explain": "Genesis 41 recounts Joseph interpreting Pharaoh’s dreams and preparing for famine."
+    },
+    {
+      "q": "Which book tells of the rebuilding of Jerusalem’s walls under Nehemiah?",
+      "options": [
+        "Nehemiah",
+        "Judges",
+        "Song of Songs",
+        "Tobit"
+      ],
+      "answer": 0,
+      "explain": "The Book of Nehemiah describes prayer, planning and rebuilding amid opposition."
+    },
+    {
+      "q": "What did the Good Samaritan do for the wounded traveller?",
+      "options": [
+        "Ignored him",
+        "Tended his wounds and arranged care",
+        "Asked him for money",
+        "Sent him away"
+      ],
+      "answer": 1,
+      "explain": "Luke 10:25–37 presents mercy as concrete and costly care."
+    },
+    {
+      "q": "In which Gospel does Jesus speak with a Samaritan woman at a well?",
+      "options": [
+        "John",
+        "Matthew",
+        "Mark",
+        "Luke"
+      ],
+      "answer": 0,
+      "explain": "John 4 recounts Jesus’ conversation with the Samaritan woman."
+    },
+    {
+      "q": "Who was the tax collector who climbed a tree to see Jesus?",
+      "options": [
+        "Zacchaeus",
+        "Matthew",
+        "Cornelius",
+        "Nicodemus"
+      ],
+      "answer": 0,
+      "explain": "Luke 19:1–10 tells how Zacchaeus meets Jesus and changes his conduct."
+    },
+    {
+      "q": "Which prayer begins with an address to our Father in heaven?",
+      "options": [
+        "The Lord’s Prayer",
+        "The Magnificat",
+        "The Benedictus",
+        "The Angelus"
+      ],
+      "answer": 0,
+      "explain": "Jesus teaches the Lord’s Prayer in Matthew 6:9–13 and Luke 11:2–4."
+    },
+    {
+      "q": "Which apostle was a tax collector before following Jesus?",
+      "options": [
+        "Matthew",
+        "Andrew",
+        "Philip",
+        "Thomas"
+      ],
+      "answer": 0,
+      "explain": "Matthew 9:9 describes Jesus calling Matthew from the tax booth."
+    },
+    {
+      "q": "What did Jesus wash during the Last Supper to model humble service?",
+      "options": [
+        "The disciples’ feet",
+        "Their hands only",
+        "Their robes",
+        "The fishing nets"
+      ],
+      "answer": 0,
+      "explain": "John 13:1–17 recounts Jesus washing the disciples’ feet."
+    },
+    {
+      "q": "Which Christian virtue does Paul place above spectacular gifts in 1 Corinthians 13?",
+      "options": [
+        "Love",
+        "Fame",
+        "Wealth",
+        "Strength"
+      ],
+      "answer": 0,
+      "explain": "Paul teaches that gifts without love amount to nothing."
+    },
+    {
+      "q": "Who helped Saul after his encounter with Jesus on the road to Damascus?",
+      "options": [
+        "Ananias",
+        "Herod",
+        "Pilate",
+        "Caiaphas"
+      ],
+      "answer": 0,
+      "explain": "Acts 9 describes Ananias praying for Saul and helping him recover."
+    },
+    {
+      "q": "Which event is described in Acts 2?",
+      "options": [
+        "Pentecost",
+        "The Nativity",
+        "The Transfiguration",
+        "The Wedding at Cana"
+      ],
+      "answer": 0,
+      "explain": "Acts 2 describes the disciples receiving the Holy Spirit."
+    },
+    {
+      "q": "Which Old Testament figure is associated with interpreting dreams while in Egypt?",
+      "options": [
+        "Joseph",
+        "Gideon",
+        "Ezra",
+        "Samuel"
+      ],
+      "answer": 0,
+      "explain": "Joseph interprets Pharaoh’s dreams in Genesis 41."
+    },
+    {
+      "q": "Which book contains the vision of a new heaven and a new earth?",
+      "options": [
+        "Revelation",
+        "Proverbs",
+        "Leviticus",
+        "Ruth"
+      ],
+      "answer": 0,
+      "explain": "Revelation 21 describes God making all things new."
+    },
+    {
+      "q": "Which quality is named among the fruits of the Spirit in Galatians 5?",
+      "options": [
+        "Kindness",
+        "Envy",
+        "Cruelty",
+        "Pride"
+      ],
+      "answer": 0,
+      "explain": "Galatians 5:22–23 lists love, joy, peace, patience, kindness and other fruits."
+    }
+  ]
+}
