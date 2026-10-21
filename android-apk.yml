@@ -1,0 +1,51 @@
+name: Build Rise With The Word APK
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'app/**'
+      - 'tools/**'
+      - '*.gradle.kts'
+      - 'settings.gradle.kts'
+      - '.github/workflows/android-apk.yml'
+permissions:
+  contents: read
+jobs:
+  audit-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+          cache: gradle
+      - name: Audit project data
+        run: |
+          python tools/audit_offline_content.py
+          python tools/audit_bilingual_reading_refs.py content-feed-template/readings-india-2026-2027.json --start 2026-10-01 --end 2027-11-27
+          python tools/audit_lectionary_pack.py content-feed-template/readings-india-2026-2027.json --start 2026-11-29 --end 2027-11-27
+          echo 'NOTE: Bible coverage audit is run only when an authorized normalized Bible input is present.'
+          if [ -f data/normalized-bible.json ]; then python tools/audit_bible_coverage.py data/normalized-bible.json --output content-feed-template/bible-coverage.md; else echo 'No authorized normalized-bible.json supplied; skipping Bible coverage audit without claiming full coverage.'; fi
+      - name: Build debug APK
+        run: |
+          if [ -f ./gradlew ]; then
+            chmod +x ./gradlew
+            ./gradlew --no-daemon assembleDebug
+          else
+            echo 'Gradle wrapper is missing; add gradlew and gradle/wrapper before relying on this workflow.' >&2
+            exit 1
+          fi
+      - name: Upload debug APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: Rise-With-The-Word-debug-APK
+          path: app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
+          retention-days: 14

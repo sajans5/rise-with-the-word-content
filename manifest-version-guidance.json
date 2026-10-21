@@ -1,0 +1,17 @@
+{
+  "packs": {
+    "stories": {
+      "version": "increment-current-version",
+      "file": "stories.json"
+    },
+    "quiz": {
+      "version": "increment-current-version",
+      "file": "quiz.json"
+    },
+    "trivia": {
+      "version": "increment-current-version",
+      "file": "trivia.json"
+    }
+  },
+  "instruction": "Use merge_content_update.py on a local copy of the live feed to preserve current entries and calculate exact checksums."
+}

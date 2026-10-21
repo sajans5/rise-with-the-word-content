@@ -1,0 +1,43 @@
+{
+  "reviewedAt": "2026-10-21",
+  "contentRepository": "https://github.com/sajans5/rise-with-the-word-content",
+  "verifiedLiveFeedBaseline": {
+    "stories": 28,
+    "saints": 20,
+    "quiz": 25,
+    "trivia": 20,
+    "calendarEntries": 0,
+    "readingExamples": 2
+  },
+  "preparedAdditions": {
+    "stories": 19,
+    "quiz": 15,
+    "trivia": 15
+  },
+  "publicSourcesReviewed": [
+    {
+      "url": "https://github.com/godlytalias/Bible-Database",
+      "finding": "README declares GPL-3.0 and credits Wordproject; review obligations before redistribution."
+    },
+    {
+      "url": "https://github.com/eldhosejoys/bible-data",
+      "finding": "README says source Bible files came from VerseView; repository README alone does not establish redistribution rights for every dataset."
+    },
+    {
+      "url": "https://github.com/yesudas/all-bible-databases",
+      "finding": "Candidate collection; do not presume uniform rights for every included translation."
+    },
+    {
+      "url": "https://github.com/janvier-s/original-douay-rheims",
+      "finding": "Repository declares CC0-1.0; latest commit observed d82b2852d55a2ab8f0e57311ee42acde25740781 documents a 76-book corpus, while this app converter expects 73 canon books and a specific raw JSON schema. Integration must pin a compatible commit or adapt the converter and explicitly select Catholic canon."
+    }
+  ],
+  "knownAppIssues": [
+    "English passage data/asset missing in screenshot",
+    "Malayalam catalogue has 73 book entries but text for 66 books",
+    "Today's Gospel English text unavailable",
+    "Build workflow/APK state requires actual GitHub Actions and device verification",
+    "index.html loads Malayalam data then js/bible.js but does not currently load the generated window.RWTW_FULL_BIBLE asset; a correct asset path and script tag are required."
+  ],
+  "githubWriteStatus": "Blocked: GitHub Contents API returned 403 Resource not accessible by integration; no live commit made."
+}
